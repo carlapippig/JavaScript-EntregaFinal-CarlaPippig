@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "imagen": "./img/jumper.jpg",
+      "nombre": "Jumper Bombón",
+      "cantidad": 1,
+      "precio": 5200
+    },
+    {
+      "id": 2,
+      "imagen": "./img/bolaespejada.jpg",
+      "nombre": "Saquito p!nk",
+      "cantidad": 1,
+      "precio": 5450
+    },
+    {
+      "id": 3,
+      "imagen": "./img/corset.jpg",
+      "nombre": "Corset castle",
+      "cantidad": 1,
+      "precio": 5200
+    },
+    {
+      "id": 4,
+      "imagen": "./img/piyama.jpg",
+      "nombre": "Piyama Bear",
+      "cantidad": 1,
+      "precio": 7500
+    },
+    {
+      "id": 5,
+      "imagen": "./img/skirtcielo.jpg",
+      "nombre": "Skirt Cielo",
+      "cantidad": 1,
+      "precio": 3500
+    },
+    {
+      "id": 6,
+      "imagen": "./img/skirtlavanda.jpg",
+      "nombre": "Skirt Lavanda",
+      "cantidad": 1,
+      "precio": 3500
+    },
+    {
+      "id": 7,
+      "imagen": "./img/zapatosrosas.jpg",
+      "nombre": "Tacos p!nk",
+      "cantidad": 1,
+      "precio": 8950
+    },
+    {
+      "id": 8,
+      "imagen": "./img/peluchito.jpg",
+      "nombre": "Peluche Baby",
+      "cantidad": 1,
+      "precio": 8900
+    }
+  ]
