@@ -224,7 +224,7 @@ function enviarCompra(e) {
       });
   }
 
- 
+
 }
 function mostrarAlertaExito() {
   const alertExito = document.createElement('p')
